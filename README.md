@@ -1,3 +1,15 @@
+<h1 align="center">Hi , I'm Kaan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
+</p>
+<br>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=CixFLow&label=Profile%20views&color=0e75b6&style=plastic" alt="CixFLow" /> 
+</p>
+
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+
+<br><br>
 # 💫 About Me:
 Hello Everyone 👋, My name is Kaan and my nickname is Krazy-8. I am a Software Engineering Student👨‍💻. I am interested in Web Design. I am currently developing software and applications with V.s.c.<br>
 
